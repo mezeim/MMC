@@ -9,4 +9,4 @@ The solute environment can be analyzed based on the Proximity Criterion and the 
 
 The calculations can use Charmm, Amber, Gromos, Gromacs, OPLS, EPEN and Clementi's potentials. Many atomtypes are built in, additional ones can be defined by the user.
 
-See the full documentation for more details and for references to the methods used. 
+See the full documentation (mmc.html) for more details and for references to the methods used. 
